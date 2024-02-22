@@ -1,6 +1,6 @@
 # 심화주차 개인과제
 
-<img src="![화면 캡처 2024-02-22 211448](https://github.com/Orknology/SpartaUnityChallengeAssignment/assets/122108152/0afa54b7-9def-444f-9e79-0ed74d3ff86a)" width="800" height="400">
+<img src="https://github.com/Orknology/SpartaUnityChallengeAssignment/assets/122108152/0afa54b7-9def-444f-9e79-0ed74d3ff86a" width="1429" height="798">
 
 ## 프로젝트 소개
 주요 주제 : **동적 생성** - 씬 전환, UI 생성 / 다른 강의따라서 기능 구현하는 시간
@@ -64,7 +64,7 @@
   - 여러 곳에서 쓰일 수 있는 static 클래스
   - 현재 Define과 Utilities가 존재
 
-<img src="![화면 캡처 2024-02-22 211836](https://github.com/Orknology/SpartaUnityChallengeAssignment/assets/122108152/9a5dbbff-f458-4653-9486-040c8e0b98e8)" width="800" height="400">
+<img src="https://github.com/Orknology/SpartaUnityChallengeAssignment/assets/122108152/9a5dbbff-f458-4653-9486-040c8e0b98e8" width="1429" height="799">
 
 **Player**
   - 카메라 = player = GameObject.Find("Player");를 Start()에 사용하여 생성된 플레이어를 자동으로 따라감
