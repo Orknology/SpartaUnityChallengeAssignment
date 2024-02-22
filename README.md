@@ -14,6 +14,7 @@
       - UI 구성
       - 시작버튼 추가
           - 시작 버튼시 씬 전환 - 메인 게임으로 이동
+            
    1-2. 기본 기능
       - 캐릭터 이동
       - 카메라 이동
@@ -65,12 +66,16 @@
 **Util**
   - 여러 곳에서 쓰일 수 있는 static 클래스
   - 현재 Define과 Utilities가 존재
+    
 
 <img src="https://github.com/Orknology/SpartaUnityChallengeAssignment/assets/122108152/9a5dbbff-f458-4653-9486-040c8e0b98e8" width="800" height="400">
 
+
 **Player**
   - 카메라 = player = GameObject.Find("Player");를 Start()에 사용하여 생성된 플레이어를 자동으로 따라감
+    
   - 컨트롤러 = 플레이어 자식으로 있는 groundCheck가 isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundLayer);를 통해 바닥에 닿고 있는지 체크 (점프 제한)
+    
   - 그래플링 = 유투브 강의를 통해 따라서 제작 해봄 - 라인 랜더러와 커브 / 스프링 조인트를 중심으로 구현 / 레이케스트를 통해 그래플 가능 여부 파악
 
 
