@@ -1,2 +1,4 @@
-# SpartaUnityChallengeAssignment
-JunhaKim's Assignment
+# 심화주차 개인과제
+주요 주제 : 동적 생성 - 씬 전환 / UI 생성
+
+작성 중
