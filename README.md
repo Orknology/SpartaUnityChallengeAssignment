@@ -57,9 +57,11 @@
   - Bind를 이용해 Button, Text 등을 objects에 저장할 수 있다.
   - 각 씬 별로 필요한 것들을 담은 UI 코드가 있어 씬에서 불러온다. (ex = Intro씬의 타이틀 이미지 모션)
 
+  - 그렇기에 상단의 사진에 과제 스타트 버튼은 인스펙터 창에서 아무 기능이 없지만 UI_Intro에서 MainScene으로 넘어가는 코드가 들어있어 작동한다.
+
   - **UI_EventHandler**
     - 마우스 포인터와 클릭 감지
-
+      
 **Util**
   - 여러 곳에서 쓰일 수 있는 static 클래스
   - 현재 Define과 Utilities가 존재
